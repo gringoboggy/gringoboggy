@@ -21,6 +21,7 @@ Hi — I'm **Bogdan** (`gringoboggy`), a self-taught developer in Ontario, Canad
 - **91,733** study notes, cross-references, and topical entries — all public-domain (Henry · JFB · Barnes · Torrey · Nave's · Easton's · Vincent …)
 - **Original Geʽez & Amharic Bibles** — transcribed straight from the manuscripts *(in progress)* — the project's distinctive heart
 - **Original-language verse popups** — Hebrew, Greek, Latin, and Arabic, chosen per edition
+- **Customizable down to the verse** — toggle note families and popups for the whole Bible, a book, a chapter, or a single verse, and pick a cover (25 designs, or import your own art)
 - **Many traditions, one toolchain** — Protestant, Catholic, Orthodox, and Ethiopian Tewahedo editions from the same source
 - **Clean, valid EPUB 3** output — no ads, no tracking, no cost, ever
 
